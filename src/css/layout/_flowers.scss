@@ -9,9 +9,7 @@ main {
     }
 
     section.left {
-        display: flex;
-        width: 100%;
-        justify-content: center;
+        @extend .right;
         margin: 30px 0;
     }
 
@@ -41,10 +39,14 @@ main {
     }
 
     section.reference {
+        margin: 50px 0 5px 0;
+    }
+
+    section.reference p {
         font-family: base.$font-stack;
         font-size: 0.9rem;
         text-align: right;
-        margin: 50px 0 10px 0;
+        margin: 5px 0 5px 0;
     }
 }
 
