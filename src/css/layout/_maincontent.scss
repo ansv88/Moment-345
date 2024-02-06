@@ -1,0 +1,66 @@
+@use "../base/normalize";
+@use "../base/base";
+@use "../components/components";
+
+body {
+    height: 100vh;
+    background-color: base.$bgcolor-main;
+}
+
+main {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    .wrapper {
+        margin: 0;
+        background-color: blanchedalmond;
+        padding: 20px;
+    }
+
+    h1 {
+        @include components.h1-title();
+    }
+
+    h2 {
+        @include components.h2-title();
+    }
+
+    article.mainarticle {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 700px;
+    }
+
+    p {
+        @include components.text();
+    }
+
+    ul {
+        margin: 20px;
+    }
+
+    li {
+        @include components.text();
+        padding: 5px;
+    }
+
+}
+
+.banner {
+    @include base.gradient-background-banner();
+}
+
+@media (min-width: 768px) {
+
+   
+
+}
+
+@media (prefers-color-scheme: dark) {
+
+    body {
+        background-color: base.$bgcolor-main-darkm;
+    }
+
+}

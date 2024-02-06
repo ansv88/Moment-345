@@ -1,0 +1,20 @@
+@use "../base/base";
+
+footer {
+    display: flex;
+    height: 8vh;
+    background-color: base.$primary-color;
+    color: base.$text-color;
+    justify-content: center;
+    align-items: center;
+    // margin-top: auto;
+}
+
+
+@media (prefers-color-scheme: dark) {
+
+    footer {
+        background-color: base.$primary-color-darkm;
+    }
+
+    }
