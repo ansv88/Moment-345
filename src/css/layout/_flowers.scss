@@ -32,6 +32,7 @@ main {
         display: flex;
         width: 100%;
         justify-content: center;
+        flex-wrap: wrap;
     }
 
     section.right:last-child {
@@ -48,9 +49,18 @@ main {
         text-align: right;
         margin: 5px 0 5px 0;
     }
+
+    img.flowerpic {
+        margin: 20px 0;
+        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    }
 }
 
 @media (min-width: 768px) {
+
+    section.right {
+        flex-wrap: wrap;
+    }
 
     img {
         width: unset;
@@ -71,5 +81,6 @@ main {
     body {
         background-color: base.$bgcolor-main-darkm;
     }
+
 
 }

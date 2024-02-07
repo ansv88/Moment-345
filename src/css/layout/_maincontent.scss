@@ -12,7 +12,9 @@ main {
     max-width: 1200px;
     margin: 0 auto;
 
-    .wrapper {
+    .wrappermain {
+        display: flex;
+        flex-wrap: wrap;
         margin: 0;
         background-color: blanchedalmond;
         padding: 20px;
@@ -24,11 +26,13 @@ main {
 
     h2 {
         @include components.h2-title();
+        margin-top: 20px;
     }
 
     article.mainarticle {
-        margin: 0 auto;
-        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 30px auto 0 auto;
         max-width: 700px;
     }
 
@@ -51,9 +55,12 @@ main {
     @include base.gradient-background-banner();
 }
 
+
 @media (min-width: 768px) {
 
-   
+    .mainarticle {
+        width: 48%;
+    }
 
 }
 
