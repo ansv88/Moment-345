@@ -3,7 +3,8 @@
 @use "../components/components";
 
 body {
-    height: 100vh;
+    position: relative;
+    min-height: 100vh;
     background-color: base.$bgcolor-main;
 }
 
@@ -16,8 +17,17 @@ main {
         display: flex;
         flex-wrap: wrap;
         margin: 0;
-        background-color: blanchedalmond;
+        background-color: base.$bgcolor-wrapper;
         padding: 20px;
+        position: relative;
+        height: 100%;
+    }
+
+    .modediv {
+        position: absolute;
+        top: 10px;
+        margin: 10px;
+        right: 10px;
     }
 
     h1 {
@@ -65,9 +75,55 @@ main {
 }
 
 @media (prefers-color-scheme: dark) {
-
     body {
         background-color: base.$bgcolor-main-darkm;
     }
 
+    .lighttext {
+        @if (prefers-color-scheme: dark) {
+            display: none;
+        }
+
+        @else {
+            display: flex;
+            @include components.mode-box();
+        }
+    }
+
+    .darktext {
+        @if (prefers-color-scheme: dark) {
+            display: flex;
+            @include components.mode-box();
+            background-color: base.$bgcolor-main-darkm;
+            color: base.$text-color-active-darkm;
+        }
+
+        @else {
+            display: none;
+        }
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    .darktext {
+        @if (prefers-color-scheme: light) {
+            display: none;
+        }
+
+        @else {
+            display: flex;
+            @include components.mode-box();
+        }
+    }
+
+    .lighttext {
+        @if (prefers-color-scheme: light) {
+            display: flex;
+            @include components.mode-box();
+        }
+
+        @else {
+            display: none;
+        }
+    }
 }

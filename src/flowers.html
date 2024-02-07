@@ -22,7 +22,7 @@
             <ul class="links">
                 <li><a href="index.html">Startsida</a></li>
                 <li><a href="sass.html">SASS</a></li>
-                <li  class="active"><a href="flowers.html">Vårblommor</a></li>
+                <li class="active"><a href="flowers.html">Vårblommor</a></li>
                 <li><a href="#">Länk</a></li>
                 <li><a href="#">Länk</a></li>
             </ul>
@@ -41,100 +41,114 @@
     </header>
 
     <main>
-        <div class="wrapper">
-        <h1>Vårblommor</h1>
+        <div class="wrappermain">
+            <div class="modediv">
+                <p class="lighttext">Light mode</p>
+                <p class="darktext">Dark mode</p>
+            </div>
+            <h1>Vårblommor</h1>
+            <section class="left">
+                <picture class="picture">
+                    <source srcset="images/tussilago.jpg?as=avif&width=300" type="image/avif">
+                    <source srcset="images/tussilago.jpg?as=webp&width=300" type="image/webp">
+                    <source srcset="images/tussilago.jpg?width=300" type="image/jpg">
+                    <img class="flowerpic" src="images/tussilago.jpg" alt="tussilago">
+                </picture>
 
-        <section class="left">
-            <picture class="picture">
-                <source srcset="images/tussilago.jpg?as=avif&width=300" type="image/avif">
-                <source srcset="images/tussilago.jpg?as=webp&width=300" type="image/webp">
-                <source srcset="images/tussilago.jpg?width=300" type="image/jpg">
-                <img class="flowerpic" src="images/tussilago.jpg" alt="tussilago">
-            </picture>
+                <article class="flowerarticle">
+                    <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
+                        <h2>Tussilago</h2>
+                        "Tussilagons små solar i dikesrenen är en glad vårsignal. Djupt nere i jorden döljs ett
+                        omfattande
+                        system av jordstammar. Blomknopparna ligger redo sedan hösten innan för att snabbt kunna slå ut
+                        så
+                        snart snön smält undan. De hästhovslika bladen kommer först efter blomningen. Arten sprids mest
+                        genom sönderdelning av jordstammarna. Den främsta pollineraren är annars vindsflugor som
+                        övervintrat
+                        inomhus och därför kan flyga ut tidigt på våren."
+                    </blockquote>
+                </article>
+            </section>
 
-            <article class="flowerarticle">
-                <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
-                    <h2>Tussilago</h2>
-                    "Tussilagons små solar i dikesrenen är en glad vårsignal. Djupt nere i jorden döljs ett omfattande
-                    system av jordstammar. Blomknopparna ligger redo sedan hösten innan för att snabbt kunna slå ut så
-                    snart snön smält undan. De hästhovslika bladen kommer först efter blomningen. Arten sprids mest
-                    genom sönderdelning av jordstammarna. Den främsta pollineraren är annars vindsflugor som övervintrat
-                    inomhus och därför kan flyga ut tidigt på våren."
-                </blockquote>
-            </article>
-        </section>
+            <section class="right">
+                <article class="flowerarticle">
+                    <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
+                        <h2>Vitsippa</h2>
+                        "Vitsippor sprider sig till stor del med hjälp av en jordstam. De kan bilda hela mattor på
+                        marken i
+                        lövskogar och lundar. Blommorna är bara öppna på dagen. Efter blomningen bildas små nötter som
+                        ger
+                        upphov till fröplantor året efter. Arten är svagt giftig och betas inte gärna. Efter trädens
+                        lövsprickning blir det för lite ljus för vitsipporna, som vissnar ner. Men näringen lagras i
+                        jord­stammarna till nästa vår."
+                    </blockquote>
+                </article>
 
-        <section class="right">
-            <article  class="flowerarticle">
-                <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
-                    <h2>Vitsippa</h2>
-                    "Vitsippor sprider sig till stor del med hjälp av en jordstam. De kan bilda hela mattor på marken i
-                    lövskogar och lundar. Blommorna är bara öppna på dagen. Efter blomningen bildas små nötter som ger
-                    upphov till fröplantor året efter. Arten är svagt giftig och betas inte gärna. Efter trädens
-                    lövsprickning blir det för lite ljus för vitsipporna, som vissnar ner. Men näringen lagras i
-                    jord­stammarna till nästa vår."
-                </blockquote>
-            </article>
+                <picture class="picture">
+                    <source srcset="images/vitsippor.jpg?as=avif&width=300" type="image/avif">
+                    <source srcset="images/vitsippor.jpg?as=webp&width=300" type="image/webp">
+                    <source srcset="images/vitsippor.jpg?width=300" type="image/jpg">
+                    <img class="flowerpic" src="images/vitsippor.jpg?width=100" alt="vitsippor">
+                </picture>
+            </section>
 
-            <picture class="picture">
-                <source srcset="images/vitsippor.jpg?as=avif&width=300" type="image/avif">
-                <source srcset="images/vitsippor.jpg?as=webp&width=300" type="image/webp">
-                <source srcset="images/vitsippor.jpg?width=300" type="image/jpg">
-                <img class="flowerpic" src="images/vitsippor.jpg?width=100" alt="vitsippor">
-            </picture>
-        </section>
+            <section class="banner"></section>
 
-        <section class="banner"></section>
+            <section class="left">
+                <picture class="picture">
+                    <source srcset="images/blasippa.jpg?as=avif&width=300" type="image/avif">
+                    <source srcset="images/blasippa.jpg?as=webp&width=300" type="image/webp">
+                    <source srcset="images/blasippa.jpg?width=300" type="image/jpg">
+                    <img class="flowerpic" src="images/blasippa.jpg?width=100" alt="Blåsippor">
+                </picture>
 
-        <section class="left">
-            <picture class="picture">
-                <source srcset="images/blasippa.jpg?as=avif&width=300" type="image/avif">
-                <source srcset="images/blasippa.jpg?as=webp&width=300" type="image/webp">
-                <source srcset="images/blasippa.jpg?width=300" type="image/jpg">
-                <img class="flowerpic" src="images/blasippa.jpg?width=100" alt="Blåsippor">
-            </picture>
+                <article class="flowerarticle">
+                    <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
+                        <h2>Blåsippa</h2>
+                        "Blåsippans vårstrategi är att förbereda det mesta redan på hösten innan. Blomknopparna står
+                        sedan
+                        redo att vecklas ut så fort det blir minsta värme i blåsippsbacken. De nya bladen kommer långt
+                        senare. När fröna mognat böjer sig blomstängeln mot marken. Myror lockas dit av ett oljerikt
+                        bihang
+                        på fröna och bär iväg dem till nya ställen. Blåsippor kan bli mycket gamla, jordstammen kan leva
+                        i
+                        hundratals år. Arten är fridlyst i hela landet mot uppgrävning och plockning annat än till
+                        husbehov.
+                        I Stockholms län och i vissa andra län är den helt fridlyst."
+                    </blockquote>
+                </article>
+            </section>
 
-            <article class="flowerarticle">
-                <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
-                    <h2>Blåsippa</h2>
-                    "Blåsippans vårstrategi är att förbereda det mesta redan på hösten innan. Blomknopparna står sedan
-                    redo att vecklas ut så fort det blir minsta värme i blåsippsbacken. De nya bladen kommer långt
-                    senare. När fröna mognat böjer sig blomstängeln mot marken. Myror lockas dit av ett oljerikt bihang
-                    på fröna och bär iväg dem till nya ställen. Blåsippor kan bli mycket gamla, jordstammen kan leva i
-                    hundratals år. Arten är fridlyst i hela landet mot uppgrävning och plockning annat än till husbehov.
-                    I Stockholms län och i vissa andra län är den helt fridlyst."
-                </blockquote>
-            </article>
-        </section>
+            <section class="right">
+                <article class="flowerarticle">
+                    <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
+                        <h2>Gullviva</h2>
+                        "Det latinska namnet, Primula veris, betyder ”vårens första”, men gullvivan är inte först, den
+                        blommar
+                        senare än blå- och vitsippa med flera. Gullvivan trivs i ängar och öppna betesmarker, gärna på
+                        kalkrik grund. Växten gynnas av tramp från boskap, som skapar nakna fläckar där fröna kan gro. I
+                        brist på kor kan människofötter duga som markberedare. Många naturbetesmarker växer igen, vilket
+                        gör
+                        att gullvivorna minskar. Gullvivor är helt fridlysta i Hallands, Skåne och Örebro län. I resten
+                        av
+                        landet får du plocka dem för husbehov, men inte att gräva upp dem med rötterna."
+                    </blockquote>
+                </article>
 
-        <section class="right">
-            <article class="flowerarticle">
-                <blockquote cite="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">
-                    <h2>Gullviva</h2>
-                    "Det latinska namnet, Primula veris, betyder ”vårens första”, men gullvivan är inte först, den
-                    blommar
-                    senare än blå- och vitsippa med flera. Gullvivan trivs i ängar och öppna betesmarker, gärna på
-                    kalkrik grund. Växten gynnas av tramp från boskap, som skapar nakna fläckar där fröna kan gro. I
-                    brist på kor kan människofötter duga som markberedare. Många naturbetesmarker växer igen, vilket gör
-                    att gullvivorna minskar. Gullvivor är helt fridlysta i Hallands, Skåne och Örebro län. I resten av
-                    landet får du plocka dem för husbehov, men inte att gräva upp dem med rötterna."
-                </blockquote>
-            </article>
+                <picture class="picture">
+                    <source srcset="images/gullviva.jpg?as=avif&width=300" type="image/avif">
+                    <source srcset="images/gullviva.jpg?as=webp&width=300" type="image/webp">
+                    <source srcset="images/gullviva.jpg?width=300" type="image/jpg">
+                    <img class="flowerpic" src="images/gullviva.jpg?width=100" alt="Gullviva">
+                </picture>
+            </section>
 
-            <picture class="picture">
-                <source srcset="images/gullviva.jpg?as=avif&width=300" type="image/avif">
-                <source srcset="images/gullviva.jpg?as=webp&width=300" type="image/webp">
-                <source srcset="images/gullviva.jpg?width=300" type="image/jpg">
-                <img class="flowerpic" src="images/gullviva.jpg?width=100" alt="Gullviva">
-            </picture>
-        </section>
-
-        <section class="reference">
-            <p>Informationen om blommorna är hämtad från <a
-                    href="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">Sveriges Natur</a>.</p>
-            <p>Bilderna är royaltyfria från <a href="https://pixabay.com/sv/">Pixabay</a>.</p>
-        </section>
-    </div>
+            <section class="reference">
+                <p>Informationen om blommorna är hämtad från <a
+                        href="https://www.sverigesnatur.org/natur/varens-forsta-blommor/">Sveriges Natur</a>.</p>
+                <p>Bilderna är royaltyfria från <a href="https://pixabay.com/sv/">Pixabay</a>.</p>
+            </section>
+        </div>
     </main>
 
     <footer id="footer">

@@ -2,12 +2,18 @@
 
 footer {
     display: flex;
-    height: 8vh;
+    height: 6vh;
     background-color: base.$primary-color;
     color: base.$text-color;
     justify-content: center;
     align-items: center;
-    // margin-top: auto;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+    p {
+        font-size: 1.1rem;
+    }
 }
 
 
