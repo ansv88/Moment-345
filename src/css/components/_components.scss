@@ -24,7 +24,8 @@
     line-height: 1.3rem;
 }
 
-@mixin mode-box(){
+//Styling text i div med lightmode/darkmode 
+@mixin mode-box() {
 border: 2px solid black;
 padding: 5px;
 border-radius: 10px;

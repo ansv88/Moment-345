@@ -10,13 +10,13 @@ $text-color-active: white;
 $bgcolor-main: white;
 $bgcolor-wrapper: blanchedalmond;
 
-//Darkmode
+//Standardfärger darkmode
 $primary-color-darkm: darken($primary-color, 10%);
 $text-color-darkm: darken($text-color, 0.5%);
 $text-color-active-darkm: white;
 $bgcolor-main-darkm: darken($bgcolor-main, 70%);
 
-//Mixin
+//Mixin för banner-gradient
 @mixin gradient-background-banner($start-color: rgba(2, 0, 36, 1), $mid-color: rgba(252, 150, 21, 1), $end-color: rgba(0, 212, 255, 1)) {
     background: $start-color;
     background: linear-gradient(90deg, $start-color 0%, $mid-color 0%, $end-color 100%);
