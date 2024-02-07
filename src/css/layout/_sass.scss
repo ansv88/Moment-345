@@ -1,0 +1,17 @@
+@use "../base/normalize";
+@use "../base/base";
+@use "../components/components";
+
+
+.wrappersass {
+    margin: 0;
+    background-color: base.$bgcolor-wrapper;
+    padding: 20px;
+    position: relative;
+    height: 100vh;
+}
+
+.sassarticle {
+    max-width: 800px;
+    margin: 30px auto 50px auto;
+}
