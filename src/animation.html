@@ -9,7 +9,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet">
-    <title>DT211G Moment 3-5</title>
+    <title>DT211G Moment 3-4</title>
     <script src="js/main.js" type="module"></script>
 </head>
 
@@ -21,7 +21,7 @@
                 <li><a href="index.html">Startsida</a></li>
                 <li><a href="sass.html">SASS</a></li>
                 <li><a href="flowers.html">Vårblommor</a></li>
-                <li class="active"><a href="animation.html">Animationer</a></li>
+                <li class="active"><a href="animation.html">Animering</a></li>
                 <li><a href="#">Länk</a></li>
             </ul>
             <div class="toggle-btn">
@@ -33,26 +33,53 @@
             <li><a href="index.html">Startsida</a></li>
             <li><a href="sass.html">SASS</a></li>
             <li><a href="flowers.html">Vårblommor</a></li>
-            <li><a href="animation.html">Animationer</a></li>
+            <li><a href="animation.html">Animering</a></li>
             <li><a href="#">Länk</a></li>
         </ul>
     </header>
 
     <main>
-        <div class="wrappermain">
+        <div class="wrapperanimation">
             <div class="modediv">
                 <p class="lighttext">Light mode</p>
                 <p class="darktext">Dark mode</p>
             </div>
-            <h1>Animationer</h1>
 
-            <article class="animationarticle">
-                <h2>Animationer</h2>
-                <p></p>
+            <h1>Animering</h1>
+
+            <article class="articleAnimation">
+                <p>Här är lite olika animeringar. <br><br>
+                    Utöver att försöka lära sig och komma ihåg syntaxen för keyframes med innehåll, så tyckte jag att
+                    det var svårt att få till de olika positioneringarna på elementen på sidan. Det vill säga
+                    postion: absolute respektive position: relative och hur de samspelar med varandra och övriga element
+                    på sidan.
+                </p>
             </article>
 
-            <section class="banner"></section>
+            <div id="dinopiccontainer">
+                <div id="dinopic">
+                    <picture>
+                        <source srcset="images/dino.png?as=webp&width=150" type="image/webp">
+                        <img src="images/dino.png" alt="dinosaurie">
+                    </picture>
+                </div>
+            </div>
 
+            <section class="banneranimation"></section>
+
+            <div class="filler1"></div>
+
+            <div class="container">
+                <button id="button">Tryck här!</button>
+                <div id="spider" class="spiderpic hidden">
+                    <picture>
+                        <source srcset="images/spindel.png?as=webp&width=100" type="image/webp">
+                        <img src="images/spindel.png" alt="spindel">
+                    </picture>
+                </div>
+            </div>
+
+            <div class="filler2"></div>
         </div>
     </main>
 

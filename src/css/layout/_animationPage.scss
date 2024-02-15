@@ -3,3 +3,79 @@
 @use "../components/components";
 @use "../components/animations";
 
+
+.wrapperanimation {
+  margin: 0;
+  background-color: base.$bgcolor-wrapper;
+  padding: 20px;
+  position: relative;
+  height: 100%;
+  min-height: 100vh;
+
+  .articleAnimation {
+    max-width: 800px;
+    background-color: base.$bgcolor-wrapper;
+    margin: 20px auto 50px auto;
+  }
+
+  #dinopiccontainer {
+    height: 150px;
+
+    #dinopic {
+      right: 0;
+      position: absolute;
+      animation: raawr 12s linear infinite;
+    }
+  }
+
+  .banneranimation {
+    @include base.gradient-background-banner();
+  }
+
+  .filler1 {
+    position: relative;
+    height: 200px;
+    z-index: 2;
+    background-color: base.$bgcolor-wrapper;
+  }
+
+  .container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    #button {
+      padding: 12px 20px;
+      font-size: 20px;
+      z-index: 2;
+      margin: 0 auto;
+      transition: all 0.3s ease;
+      background-color: base.$primary-color;
+    }
+
+    #button:hover {
+      box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+      transform: scale(1.05);
+      color: base.$text-color-active;
+    }
+
+    .spiderpic {
+      position: absolute;
+      transform: translateX(-50%) translateY(30%);
+      transition: 0.5s ease-in-and-out;
+      animation: spidermove 4s infinite;
+      z-index: 1;
+    }
+
+    .hidden {
+      display: none;
+    }
+  }
+
+  .filler2 {
+    height: 200px;
+  }
+
+}

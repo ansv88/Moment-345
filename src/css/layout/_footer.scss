@@ -7,8 +7,6 @@ footer {
     color: base.$text-color;
     justify-content: center;
     align-items: center;
-    position: absolute;
-    bottom: 0;
     width: 100%;
 
     p {
@@ -23,4 +21,4 @@ footer {
         background-color: base.$primary-color-darkm;
     }
 
-    }
+}

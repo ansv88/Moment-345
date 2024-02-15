@@ -3,7 +3,6 @@
 @use "../components/components";
 
 body {
-    position: relative;
     min-height: 100vh;
     background-color: base.$bgcolor-main;
 }
@@ -20,6 +19,7 @@ main {
         background-color: base.$bgcolor-wrapper;
         padding: 20px;
         position: relative;
+        min-height: 100vh;
         height: 100%;
     }
 
@@ -32,11 +32,24 @@ main {
 
     h1 {
         @include components.h1-title();
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     h2 {
         @include components.h2-title();
-        margin-top: 20px;
+        display: flex;
+        align-items: center;
+    }
+
+    article.mainarticle1 {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 auto 30px auto;
+        max-width: 800px;
+        width: 100%;
     }
 
     article.mainarticle {
@@ -68,8 +81,40 @@ main {
 
 @media (min-width: 768px) {
 
+    .articlewrapper {
+        display: flex;
+        flex-wrap: wrap;
+        max-height: 500px;
+    }
+
     .mainarticle {
         width: 48%;
+        max-height: 350px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 30px auto 0 auto;
+        max-width: 700px;
+    }
+
+    .mainarticle1 {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 100px;
+        align-items: center;
+    }
+
+    .mainarticle2 {
+        width: 100%;
+        max-height: 350px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 30px auto 0 auto;
+        max-width: 700px;
+
+        ul {
+            margin: 20px 0;
+        }
     }
 
 }

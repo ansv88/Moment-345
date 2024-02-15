@@ -1,4 +1,38 @@
 @keyframes raawr {
+  0% {
+    right: 0;
+  }
 
+  48% {
+    transform: rotateY(0deg);
+  }
 
+  50% {
+    right: calc(100% - 150px);
+    transform: rotateY(180deg);
+  }
+
+  98% {
+    transform: rotateY(180deg);
+  }
+
+  100% {
+    right: 0;
+    transform: rotateY(0deg);
+  }
+
+}
+
+@keyframes spidermove {
+  0% {
+    transform: translateY(-40%);
+  }
+
+  50% {
+    transform: translateY(50%);
+  }
+
+  100% {
+    transform: translateY(-40%);
+  }
 }
