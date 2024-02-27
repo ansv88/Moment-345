@@ -1,0 +1,3096 @@
+[
+    {
+        "type": "Kurs",
+        "name": "Metodik ur systemperspektiv",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Forskningsfärdigheter",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoentreprenör för hållbar utveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "40"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoentreprenör för hållbar utveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "154"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "80"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoingenjör",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållbar utveckling - introduktionskurs",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "56"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i ekoteknik och hållbar utveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "20"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i ekoteknik och hållbar utveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljörätt A",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "114"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoingenjör",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "50"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ekosystemtjänster",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållbar upphandling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Program",
+        "name": "Byggingenjör Hållbart byggande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "65",
+        "applicantsTotal": "213"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i miljöteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i miljövetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Program",
+        "name": "Byggingenjör Hållbart byggande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "61"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoteknik",
+        "admissionRound": "IKHT23",
+        "applicantsFirstHand": "34",
+        "applicantsTotal": "178"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i ekoteknik och hållbar utveckling",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "49"
+    },
+    {
+        "type": "Kurs",
+        "name": "Artificiell Intelligens för agenter",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "37"
+    },
+    {
+        "type": "Kurs",
+        "name": "Java II",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "52"
+    },
+    {
+        "type": "Program",
+        "name": "Programvaruteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "173",
+        "applicantsTotal": "875"
+    },
+    {
+        "type": "Program",
+        "name": "Programvaruteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "77"
+    },
+    {
+        "type": "Program",
+        "name": "Informatik med inriktning systemutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "210",
+        "applicantsTotal": "1320"
+    },
+    {
+        "type": "Program",
+        "name": "Informatik med inriktning systemutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "28",
+        "applicantsTotal": "135"
+    },
+    {
+        "type": "Kurs",
+        "name": "Reaktiv Programmering",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "22"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete med metod",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "14"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i elektroteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "45",
+        "applicantsTotal": "63"
+    },
+    {
+        "type": "Program",
+        "name": "Automationsingenjör",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Program",
+        "name": "Automationsingenjör",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "24",
+        "applicantsTotal": "96"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i elektroteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "70"
+    },
+    {
+        "type": "Program",
+        "name": "Elkraftingenjör",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "43",
+        "applicantsTotal": "125"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektronik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ljudproduktion för teater och scenframställning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "62"
+    },
+    {
+        "type": "Kurs",
+        "name": "Tekniskt ljudskapande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "59"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till dramatiserad podcasting",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "57"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ljudskapande och ljudsyntes",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektronik",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i elektroteknik",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "127",
+        "applicantsTotal": "391"
+    },
+    {
+        "type": "Program",
+        "name": "Grafisk design",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "84",
+        "applicantsTotal": "441"
+    },
+    {
+        "type": "Program",
+        "name": "Industridesign",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "149"
+    },
+    {
+        "type": "Kurs",
+        "name": "Universell utformning av digital tillgänglighet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "63",
+        "applicantsTotal": "405"
+    },
+    {
+        "type": "Kurs",
+        "name": "Design av lätthanterliga förpackningar",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "107"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fotohistoria",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "110"
+    },
+    {
+        "type": "Kurs",
+        "name": "Digital fotografi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "66",
+        "applicantsTotal": "472"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till fotografisk teori och komposition",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "208"
+    },
+    {
+        "type": "Kurs",
+        "name": "Digital bildbehandling för foto och film",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "46",
+        "applicantsTotal": "525"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållbar arkitektur",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "40"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till programmering",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Informationshantering och dokumentstyrning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "40"
+    },
+    {
+        "type": "Kurs",
+        "name": "Projektbaserad produktutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Inbyggda datorsystem och realtidstillämpningar",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Distribuerade algoritmer",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i hållbar informationsförsörjning - Arkiv- och informationsvetenskap (ARKI)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "53"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i hållbar informationsförsörjning - Industriell organisation och ekonomi (IUEK)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till industriell ekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "134"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i datateknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "27",
+        "applicantsTotal": "176"
+    },
+    {
+        "type": "Kurs",
+        "name": "Grundläggande datavetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "150"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till programmering",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "51"
+    },
+    {
+        "type": "Kurs",
+        "name": "Tillämpad maskininlärning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Kurs",
+        "name": "Internet of Things-protokoll",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "14"
+    },
+    {
+        "type": "Kurs",
+        "name": "Informationssäkerhet och klassificering",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Interoperabilitet hos verksamhetsinformation över tid",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Kurs",
+        "name": "Tillgängliggörande och användning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskaplig forskning och teori",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i industriell ekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "24",
+        "applicantsTotal": "172"
+    },
+    {
+        "type": "Program",
+        "name": "Datateknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "58",
+        "applicantsTotal": "238"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i datateknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "44"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i datateknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Program",
+        "name": "Webbutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "621",
+        "applicantsTotal": "2396"
+    },
+    {
+        "type": "Kurs",
+        "name": "Maskininlärning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Implementering av Internet of Things-protokoll",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datorer och data från grunden",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "220"
+    },
+    {
+        "type": "Kurs",
+        "name": "Programmeringsmetodik I med Java",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "255"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsutveckling och förändringsanalys",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "47"
+    },
+    {
+        "type": "Kurs",
+        "name": "Programmeringsmetodik II med Java",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Avancerad verksamhetsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till koncern- och IT-arkitektur",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "67"
+    },
+    {
+        "type": "Kurs",
+        "name": "Grundläggande datavetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i datateknik",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "30",
+        "applicantsTotal": "148"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i datateknik",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "56"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i hållbar informationsförsörjning - Informatik (INFO)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "15"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap för registratorer GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "99",
+        "applicantsTotal": "310"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "249",
+        "applicantsTotal": "552"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap GR (B)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "59",
+        "applicantsTotal": "85"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "22"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datavetenskap GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "166",
+        "applicantsTotal": "590"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datavetenskap GR (B)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "17",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datavetenskap GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "18",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datateknik GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datateknik GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "53",
+        "applicantsTotal": "183"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i teknisk kemi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjörsutbildning i teknisk kemi Mittuniversitetet-KTH",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "40"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i teknisk yt- och kolloidkemi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till massa- och pappersteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i kemiteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Processer - kemisk massa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Processer - kemiska specialmassor",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i kvalitets- och ledarskapsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "172",
+        "applicantsTotal": "495"
+    },
+    {
+        "type": "Program",
+        "name": "Sportteknologi - högskoleingenjör produktutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Program",
+        "name": "Additiv tillverkning - högskoleingenjör maskinteknik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "43"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datorstödd modellering I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till ingenjörsarbete och produktutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i additiv tillverkning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i additiv tillverkning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Kurs",
+        "name": "Maskinteknik AV, Additiv tillverkning i metall",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Maskinteknik AV, Material för additiv tillverkning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Maskinteknik AV, Additiv tillverkning och hållbarhet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i additiv tillverkning",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "18"
+    },
+    {
+        "type": "Kurs",
+        "name": "Att berätta med bilder",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "46",
+        "applicantsTotal": "285"
+    },
+    {
+        "type": "Kurs",
+        "name": "Podcast, berättande och produktion",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "57",
+        "applicantsTotal": "312"
+    },
+    {
+        "type": "Kurs",
+        "name": "Skriva för webben",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "70",
+        "applicantsTotal": "491"
+    },
+    {
+        "type": "Kurs",
+        "name": "Lag och rätt för journalister",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "146"
+    },
+    {
+        "type": "Program",
+        "name": "Journalistprogrammet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "245"
+    },
+    {
+        "type": "Kurs",
+        "name": "Video för sociala medier",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "288"
+    },
+    {
+        "type": "Kurs",
+        "name": "Medie- och kommunikationsvetenskap AV, Kriskommunikation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "208"
+    },
+    {
+        "type": "Program",
+        "name": "Kommunikations- och PR-programmet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "194"
+    },
+    {
+        "type": "Kurs",
+        "name": "Medie- och kommunikationsvetenskap AV, Strategisk digital kommunikation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "52",
+        "applicantsTotal": "330"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i strategisk kommunikation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "151",
+        "applicantsTotal": "382"
+    },
+    {
+        "type": "Kurs",
+        "name": "Medie- och kommunikationsvetenskap GR (A), Organisation och kommunikation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "347"
+    },
+    {
+        "type": "Kurs",
+        "name": "Påbyggnadskurs i journalistik för akademiker - Campus",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "20"
+    },
+    {
+        "type": "Kurs",
+        "name": "Påbyggnadskurs i journalistik för akademiker - Distans",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "139",
+        "applicantsTotal": "311"
+    },
+    {
+        "type": "Kurs",
+        "name": "Praktisk naturvård och biologisk mångfald i skog",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "65",
+        "applicantsTotal": "168"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i teknisk design",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "90"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i teknisk fysik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "69"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i biologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i teknisk fysik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Mekanik A",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "14"
+    },
+    {
+        "type": "Kurs",
+        "name": "Allmän kemi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Biokemi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållfasthetslära",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i kemi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i biologi",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i teknisk fysik",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "19"
+    },
+    {
+        "type": "Kurs",
+        "name": "Linjär algebra I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Flervariabelanalys",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Serier och transformer",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Basår/behörighetsgivande utbildning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "46",
+        "applicantsTotal": "152"
+    },
+    {
+        "type": "Kurs",
+        "name": "Algebra och geometri",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Envariabelanalys 1",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Envariabelanalys 2",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Envariabelanalys 2",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fördjupningskurs i matematik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Program",
+        "name": "Basår/behörighetsgivande utbildning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "35",
+        "applicantsTotal": "95"
+    },
+    {
+        "type": "Kurs",
+        "name": "Matematik GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Matematik GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "36",
+        "applicantsTotal": "148"
+    },
+    {
+        "type": "Program",
+        "name": "Ekonomprogram",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "49",
+        "applicantsTotal": "272"
+    },
+    {
+        "type": "Program",
+        "name": "Civilekonomprogrammet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "65",
+        "applicantsTotal": "534"
+    },
+    {
+        "type": "Program",
+        "name": "Magister i Företagsekonomi: Redovisning och revision",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "71",
+        "applicantsTotal": "139"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvantitativa metoder",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fastighetsekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Finansiell portföljmanagement",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Kurs",
+        "name": "Koncernredovisning och revisionsmetodik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "46"
+    },
+    {
+        "type": "Kurs",
+        "name": "Affärsrelationer",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisnings- och revisionsteori",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "47"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Risk Management",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljö- och naturresursekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Transformativt ledarskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "18"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kandidatuppsats",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "35"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handelsrätt II",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsundersökningar",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Konsumentbeteende",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisning och revision",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsföring i nätverk",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation och kommunikation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Effektivt ledarskap och företagsetik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "246",
+        "applicantsTotal": "573"
+    },
+    {
+        "type": "Program",
+        "name": "Ekonomprogram",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "164"
+    },
+    {
+        "type": "Program",
+        "name": "Civilekonomprogrammet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "346"
+    },
+    {
+        "type": "Kurs",
+        "name": "Naturturism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "76"
+    },
+    {
+        "type": "Kurs",
+        "name": "Destinationsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "86"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvantitativa metoder i turism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Destinationsutveckling och hållbarhet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Destinationsutveckling och hållbarhet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "78"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning: Förberedelser och fördjupning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning: Analys och kompetensutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turism och hållbarhet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljö- och naturresursekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskapligt arbetssätt och undersökningsmetodik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Program",
+        "name": "Turism och destinationsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "90",
+        "applicantsTotal": "428"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljörättvisa, ojämlikheter och social hållbar utveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "100"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskapligt arbetssätt och undersökningsmetodik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Planering i den politiska geografin",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "51"
+    },
+    {
+        "type": "Program",
+        "name": "Magister i Företagsekonomi: Redovisning och revision",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "73"
+    },
+    {
+        "type": "Kurs",
+        "name": "Företagsekonomi för elitidrottare",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "55",
+        "applicantsTotal": "160"
+    },
+    {
+        "type": "Kurs",
+        "name": "Regional ekonomi och politik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "132"
+    },
+    {
+        "type": "Program",
+        "name": "Turism och destinationsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "70"
+    },
+    {
+        "type": "Kurs",
+        "name": "Finansiell portföljmanagement",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "25"
+    },
+    {
+        "type": "Kurs",
+        "name": "Koncernredovisning och revisionsmetodik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap och organisationskultur",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "22"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisnings- och revisionsteori",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "30"
+    },
+    {
+        "type": "Kurs",
+        "name": "Internationell marknadsföring",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "19"
+    },
+    {
+        "type": "Kurs",
+        "name": "Offentlig ekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "15"
+    },
+    {
+        "type": "Program",
+        "name": "Master i turism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Kurs",
+        "name": "Risk Management",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Juridisk översiktskurs",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "129",
+        "applicantsTotal": "1004"
+    },
+    {
+        "type": "Kurs",
+        "name": "Mikroekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "85",
+        "applicantsTotal": "418"
+    },
+    {
+        "type": "Kurs",
+        "name": "Offentlig upphandling - grundkurs",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "87",
+        "applicantsTotal": "586"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kandidatuppsats",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "35"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i turism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Program",
+        "name": "Förvaltningsjuridiska programmet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "51",
+        "applicantsTotal": "238"
+    },
+    {
+        "type": "Kurs",
+        "name": "Konsumentbeteende",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisning och revision",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsföring i nätverk",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handelsrätt II",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation och kommunikation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Socialrätt I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "57",
+        "applicantsTotal": "627"
+    },
+    {
+        "type": "Kurs",
+        "name": "Effektivt ledarskap och företagsetik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning: Förberedelser och fördjupning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till fastighetsekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "119"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning: analys och kompetensutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turism i en föränderlig värld",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kritiska perspektiv inom turismgeografi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "25"
+    },
+    {
+        "type": "Kurs",
+        "name": "Globala miljöförändringar",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "85"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvantitativa metoder",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fastighetsekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turismens drivkrafter och omvärld",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turismens drivkrafter och omvärld",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Kurs",
+        "name": "Konsumentbeteende inom turism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "71"
+    },
+    {
+        "type": "Kurs",
+        "name": "Evenemangsturism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "87"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kundbaserad varumärkesutveckling för besöksnäring",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "50"
+    },
+    {
+        "type": "Kurs",
+        "name": "Entreprenörskap och företagande inom turism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "97"
+    },
+    {
+        "type": "Kurs",
+        "name": "Entreprenörskap och företagande inom turism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "60",
+        "applicantsTotal": "274"
+    },
+    {
+        "type": "Program",
+        "name": "Master i turism",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "72",
+        "applicantsTotal": "252"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i turism",
+        "admissionRound": "MASTERHT23",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "73"
+    },
+    {
+        "type": "Kurs",
+        "name": "Finansiering",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "109",
+        "applicantsTotal": "651"
+    },
+    {
+        "type": "Kurs",
+        "name": "Metod",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "38",
+        "applicantsTotal": "262"
+    },
+    {
+        "type": "Kurs",
+        "name": "Externredovisning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "157",
+        "applicantsTotal": "822"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ekonomistyrning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "119",
+        "applicantsTotal": "873"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation och ledarskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "72",
+        "applicantsTotal": "862"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsföring",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "40",
+        "applicantsTotal": "726"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljö- och naturresursekonomi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "43"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kreativt skrivande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "59",
+        "applicantsTotal": "355"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska språket ur ett språktypologiskt perspektiv B1",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kreativt skrivande, Barn- o ungdom",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "25",
+        "applicantsTotal": "161"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminologi GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "79"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminologi A I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "207",
+        "applicantsTotal": "1325"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturvetenskap AV, Humanistisk vetenskapsteori",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utvärdering av brottspreventiva insatser",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "33",
+        "applicantsTotal": "451"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturvetenskap AV, Modernitet och modernism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminella beteendets psykologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "85",
+        "applicantsTotal": "1175"
+    },
+    {
+        "type": "Kurs",
+        "name": "Viktimologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "190"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminologi GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "43"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "35"
+    },
+    {
+        "type": "Kurs",
+        "name": "Uttal och kommunikation A1",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "32"
+    },
+    {
+        "type": "Kurs",
+        "name": "Skandinavisk politik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterutbildning med inriktning mot engelska studier",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "18",
+        "applicantsTotal": "49"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svensk grammatik i ett tvärspråkligt perspektiv A2",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "102",
+        "applicantsTotal": "461"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterutbildning i svenska språket",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (B)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "73"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska språket GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "35",
+        "applicantsTotal": "193"
+    },
+    {
+        "type": "Kurs",
+        "name": "Humanistisk vetenskapsteori",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kognitiv semantik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "68"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska språket GR (B)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Literacy. Skriftbruk som social praktik igår och idag",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska AV, Politiska litteraturer",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Kurs",
+        "name": "Business Writing",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "23",
+        "applicantsTotal": "154"
+    },
+    {
+        "type": "Kurs",
+        "name": "Genusperspektiv på språk",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturvetenskap GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Kurs",
+        "name": "Muntlig affärsengelska",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "159"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Svenska/Samhällskunskap (SVSA)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "64"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Svenska/Engelska (SVEN)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "64"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Samhällskunskap/Historia (SAHI)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "92"
+    },
+    {
+        "type": "Kurs",
+        "name": "Läs- och skrivutveckling I. Svenska för grundlärare F3",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Historia/Engelska (HIEN)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "64"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska för grundlärare I, 4-6",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Kurs",
+        "name": "Samhällskunskap GR (A), 1-30",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "45"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterutbildning med inriktning mot historia",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "17"
+    },
+    {
+        "type": "Kurs",
+        "name": "Andraspråksutveckling B2",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska som andraspråk GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologi GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "32"
+    },
+    {
+        "type": "Program",
+        "name": "Samhällsvetarprogrammet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "33",
+        "applicantsTotal": "206"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "22",
+        "applicantsTotal": "183"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "30",
+        "applicantsTotal": "247"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sveriges senmedeltid, ca 1300-1500",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "100"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historisk kriminologi: Brottslighet och social kontroll under medeltid och tidigmodern tid",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "158"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (B)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Teori- och metodkurs",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Det sydsamiska området i historisk belysning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "32"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterutbildning i litteraturvetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Program",
+        "name": "Programmet för litteratur och skrivande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "181",
+        "applicantsTotal": "616"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturvetenskap GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturvetenskap GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "39",
+        "applicantsTotal": "285"
+    },
+    {
+        "type": "Program",
+        "name": "Personal- och arbetslivsprogrammet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "52",
+        "applicantsTotal": "183"
+    },
+    {
+        "type": "Program",
+        "name": "Risk- och krishanteringsprogrammet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "42",
+        "applicantsTotal": "162"
+    },
+    {
+        "type": "Kurs",
+        "name": "Risker och kriser i samhället",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Svenska/Samhällskunskap (SVSA)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Kurs",
+        "name": "Offentlig förvaltning i teori och praktik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisering, beslutsfattande och genomförande av politik på lokal nivå",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utvärdering i offentlig verksamhet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "51",
+        "applicantsTotal": "98"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Svenska/Engelska (SVEN)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Samhällskunskap/Historia (SAHI)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "70"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Historia/Engelska (HIEN)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "42"
+    },
+    {
+        "type": "Kurs",
+        "name": "Samhällskunskap GR (A), 1-30",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Genusvetenskap GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "134"
+    },
+    {
+        "type": "Kurs",
+        "name": "Normkritik som teori och praktik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "99"
+    },
+    {
+        "type": "Kurs",
+        "name": "Urfolksfeminism",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "78"
+    },
+    {
+        "type": "Kurs",
+        "name": "Genusvetenskap II",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "51"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kandidatkurs i genusvetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i sociologi med inriktning mot forskning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "47",
+        "applicantsTotal": "134"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologi GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "115",
+        "applicantsTotal": "734"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ungdomssociologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "177"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskaps- och organisationsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "91",
+        "applicantsTotal": "604"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologi GR (B)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "48",
+        "applicantsTotal": "163"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i statsvetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "71",
+        "applicantsTotal": "207"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (A)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "114",
+        "applicantsTotal": "516"
+    },
+    {
+        "type": "Kurs",
+        "name": "Europeiska Unionen  demokrati och representation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "121"
+    },
+    {
+        "type": "Kurs",
+        "name": "Brott och välfärdsstaten i Västeuropa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "121"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (B)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "51",
+        "applicantsTotal": "151"
+    },
+    {
+        "type": "Kurs",
+        "name": "Migrationspolitik i Europa och Sverige - en introduktion",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "123"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till genusvetenskap A1",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Social nätverksanalys I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "58"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologiska perspektiv på kris och frivillighet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "70"
+    },
+    {
+        "type": "Kurs",
+        "name": "Brott och straff i svensk politik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "55",
+        "applicantsTotal": "725"
+    },
+    {
+        "type": "Kurs",
+        "name": "Smitta och smittspridning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "144"
+    },
+    {
+        "type": "Program",
+        "name": "Socionomutbildning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "118",
+        "applicantsTotal": "605"
+    },
+    {
+        "type": "Kurs",
+        "name": "Relationsinramningsteori",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Kurs",
+        "name": "Neurovetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Kurs",
+        "name": "Beteende och hälsa från ett miljöpsykologiskt perspektiv",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Kurs",
+        "name": "Psykologiska perspektiv på politik och samhällsliv",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handledningsmetodik och kritiska perspektiv i socialt arbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "37"
+    },
+    {
+        "type": "Kurs",
+        "name": "Könsidentitet och könsuttryck i socialt arbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "19"
+    },
+    {
+        "type": "Kurs",
+        "name": "Risk- och behovsbedömning av barn, unga och deras familjers behov av stöd från samhället",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "44",
+        "applicantsTotal": "50"
+    },
+    {
+        "type": "Kurs",
+        "name": "Åldrande, sociala problem och social exklusion. Det sociala arbetets roll",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "34"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap och samtalsmetodik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "48",
+        "applicantsTotal": "519"
+    },
+    {
+        "type": "Kurs",
+        "name": "Globalisering, transnationell migration och socialt arbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "105"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ungas delaktighet, empowerment och inkludering",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Program",
+        "name": "Psykologprogrammet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "160",
+        "applicantsTotal": "1414"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljöpsykologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "217"
+    },
+    {
+        "type": "Kurs",
+        "name": "Psykologi, Grundkurs",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "165",
+        "applicantsTotal": "1411"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till psykologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "89",
+        "applicantsTotal": "967"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fortsättningskurs",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "48",
+        "applicantsTotal": "236"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "53",
+        "applicantsTotal": "143"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till beteendeterapi & kognitiv beteendeterapi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "247",
+        "applicantsTotal": "1503"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation, individ och förändringsarbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "42",
+        "applicantsTotal": "543"
+    },
+    {
+        "type": "Kurs",
+        "name": "Klinisk psykologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "22",
+        "applicantsTotal": "233"
+    },
+    {
+        "type": "Kurs",
+        "name": "Personlighetspsykologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "25",
+        "applicantsTotal": "554"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utvecklingspsykologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "173"
+    },
+    {
+        "type": "Program",
+        "name": "Senare del av program termin 2 el. högre",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Förskollärare",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "86",
+        "applicantsTotal": "359"
+    },
+    {
+        "type": "Program",
+        "name": "Grundlärare med inriktning mot arbete i fritidshem",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "77",
+        "applicantsTotal": "293"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Grundlärare med inriktning mot arbete i förskoleklass och grundskolans årskurs 1-3",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "79",
+        "applicantsTotal": "329"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Grundlärare med inriktning mot arbete i grundskolans årskurs 4-6",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "40",
+        "applicantsTotal": "236"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i pedagogik med inriktning mot professionsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "46"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogrammet i pedagogik med inriktning mot professionsutveckling och forskning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "42"
+    },
+    {
+        "type": "Program",
+        "name": "Beteendevetenskapligt program",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "282",
+        "applicantsTotal": "1505"
+    },
+    {
+        "type": "Kurs",
+        "name": "Idrott och hälsa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "18",
+        "applicantsTotal": "47"
+    },
+    {
+        "type": "Kurs",
+        "name": "Bild som praktiskt estetiskt ämne",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap och utveckling av pedagogiska verksamheter I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "25",
+        "applicantsTotal": "116"
+    },
+    {
+        "type": "Kurs",
+        "name": "Förutsättningar för yngre barns lärande I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vuxnas lärande i informella och formella sammanhang I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Forskningsmetodologi, vetenskaplig design och kvalitativa metoder",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap och utveckling av pedagogiska verksamheter II",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vuxnas lärande i informella och formella sammanhang II",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Lärande genom handledning och reflektion",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "38",
+        "applicantsTotal": "45"
+    },
+    {
+        "type": "Kurs",
+        "name": "Goda lärmiljöer - språklig mångfald  som resurs i grundskolan",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Kurs",
+        "name": "Högskolepedagogik och flexibelt lärande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "54",
+        "applicantsTotal": "89"
+    },
+    {
+        "type": "Kurs",
+        "name": "Goda lärmiljöer - Språklig mångfald som resurs i förskolan",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "45"
+    },
+    {
+        "type": "Kurs",
+        "name": "Socialt, emotionellt och interkulturellt lärande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "53"
+    },
+    {
+        "type": "Kurs",
+        "name": "Specialpedagogik, med inriktning mot resilienta förhållningssätt i arbete med NPF",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "63",
+        "applicantsTotal": "285"
+    },
+    {
+        "type": "Kurs",
+        "name": "Undervisning i förskolan",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Pedagogik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "89",
+        "applicantsTotal": "487"
+    },
+    {
+        "type": "Kurs",
+        "name": "Pedagogik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "62"
+    },
+    {
+        "type": "Kurs",
+        "name": "Pedagogik GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "45"
+    },
+    {
+        "type": "Kurs",
+        "name": "Läs- och skrivinlärning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "79"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folksjukdomar",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "93"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig teori och metod",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Kurs",
+        "name": "Projektledning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Migration och hälsa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "46"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folkhälsovetenskap GR (C)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hälsa och tillämpning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvantitativ metod och epidemiologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "34"
+    },
+    {
+        "type": "Kurs",
+        "name": "Strategiskt folkhälsoarbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "63"
+    },
+    {
+        "type": "Kurs",
+        "name": "Individuell ämnesfördjupning I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "161",
+        "applicantsTotal": "695"
+    },
+    {
+        "type": "Program",
+        "name": "Programmet för psykisk hälsa/ohälsa - särskild komplicerad problematik",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "145",
+        "applicantsTotal": "625"
+    },
+    {
+        "type": "Kurs",
+        "name": "Psykiatri",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "194"
+    },
+    {
+        "type": "Program",
+        "name": "Psykiatrisjuksköterska",
+        "admissionRound": "VIFYHT23",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "52"
+    },
+    {
+        "type": "Kurs",
+        "name": "Beroendelära och psykisk ohälsa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "225"
+    },
+    {
+        "type": "Kurs",
+        "name": "Examensarbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig metod",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Demenssjukdomar, vård och omvårdnad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "84"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hälso- och sjukvårdsdokumentation och kodsystem",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Kurs",
+        "name": "Förbättringskunskap och säker vård",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogrammet i folkhälsovetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "53",
+        "applicantsTotal": "194"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogrammet i folkhälsovetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "54",
+        "applicantsTotal": "225"
+    },
+    {
+        "type": "Program",
+        "name": "Forskningsförberedande masterprogram i humanvetenskap - Socialt arbete (SOAA)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Program",
+        "name": "Idrottsvetenskapligt program",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "84"
+    },
+    {
+        "type": "Program",
+        "name": "Forskningsförberedande masterprogram i humanvetenskap - Idrottsvetenskap (IDRA)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till idrottsvetenskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Anatomi och fysiologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fysisk aktivitet och hälsa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Testmetodik och evidensbaserad träningslära",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig teori och metod I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Praktiskt ledarskap",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Nutrition med inriktning idrott och prestation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Kurs",
+        "name": "Nutrition med inriktning fysisk aktivitet och hälsa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Prestationsutveckling",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "94",
+        "applicantsTotal": "517"
+    },
+    {
+        "type": "Kurs",
+        "name": "Omvårdnad med inrikting avancerad palliativ vård",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "22",
+        "applicantsTotal": "126"
+    },
+    {
+        "type": "Program",
+        "name": "Forskningsförberedande masterprogram i humanvetenskap - Turism (TURA)",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Examensarbete",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig metod",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Optimering av idrottsprestation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Återgång till spel och omhändertagande av skada",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i idrottsprestation och idrottares hälsa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "31",
+        "applicantsTotal": "80"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i idrottsprestation och idrottares hälsa",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "54",
+        "applicantsTotal": "94"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning - Decentraliserad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "64"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning - Decentraliserad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "27",
+        "applicantsTotal": "75"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning - Decentraliserad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "49",
+        "applicantsTotal": "109"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning - Decentraliserad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "62"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning - Decentraliserad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "30",
+        "applicantsTotal": "68"
+    },
+    {
+        "type": "Program",
+        "name": "Programmet för Hälsa och Rehabilitering i arbetslivet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "135",
+        "applicantsTotal": "790"
+    },
+    {
+        "type": "Program",
+        "name": "Specialistsjuksköterskeprogrammet med inriktning mot hälso- och sjukvård för barn och ungdom",
+        "admissionRound": "VIFYHT23",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "57"
+    },
+    {
+        "type": "Kurs",
+        "name": "Anatomi och fysiologi",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "55",
+        "applicantsTotal": "243"
+    },
+    {
+        "type": "Program",
+        "name": "Distriktssköterska",
+        "admissionRound": "VIFYHT23",
+        "applicantsFirstHand": "86",
+        "applicantsTotal": "152"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i omvårdnad",
+        "admissionRound": "VIFYHT23",
+        "applicantsFirstHand": "66",
+        "applicantsTotal": "108"
+    },
+    {
+        "type": "Kurs",
+        "name": "Medicinsk vetenskap AV, Akut omhändertagande",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "66",
+        "applicantsTotal": "258"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handledarutbildning inom vård och rehabilitering I",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "47",
+        "applicantsTotal": "98"
+    },
+    {
+        "type": "Kurs",
+        "name": "Medicinsk vetenskap AV, Diabetes Mellitus",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "117",
+        "applicantsTotal": "221"
+    },
+    {
+        "type": "Kurs",
+        "name": "Avancerad medicinsk omvårdnad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "41",
+        "applicantsTotal": "163"
+    },
+    {
+        "type": "Kurs",
+        "name": "Avancerad kirurgisk omvårdnad",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "50",
+        "applicantsTotal": "141"
+    },
+    {
+        "type": "Kurs",
+        "name": "Medicinsk vetenskap AV, Vård av patienter i behov av andningsstöd/non-invasiv ventilation",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "63",
+        "applicantsTotal": "162"
+    },
+    {
+        "type": "Kurs",
+        "name": "Medicinsk vetenskap AV, Farmakologi med sjukdomslära för förskrivningsrätt",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "53",
+        "applicantsTotal": "153"
+    },
+    {
+        "type": "Kurs",
+        "name": "Rehabiliteringsvetenskap AV, Rehabilitering i arbetslivet",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Kurs",
+        "name": "Rehabiliteringsvetenskap AV, Hållbara organisationer",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "20"
+    },
+    {
+        "type": "Kurs",
+        "name": "Idrottsvetenskap, kurspaket",
+        "admissionRound": "HT2023",
+        "applicantsFirstHand": "53",
+        "applicantsTotal": "211"
+    }
+]
