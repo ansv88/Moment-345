@@ -9,7 +9,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet">
-    <title>DT211G Moment 3-4</title>
+    <title>DT211G Moment 3-5</title>
     <script src="js/main.js" type="module"></script>
     <script src="js/diagram.js" type="module"></script>
 </head>
@@ -42,19 +42,27 @@
     </header>
 
     <main>
-        <div class="wrappersass">
+        <div class="wrappermain">
             <div class="modediv">
                 <p class="lighttext">Light mode</p>
                 <p class="darktext">Dark mode</p>
             </div>
             <h1>Diagram</h1>
 
-            <div>
-                <canvas id="myChart"></canvas>
+            <div class="diagramwrapper">
+                <h2>Mest sökta kurserna på Mittuniversitetet ht2023</h2>
+                <canvas id="barChart"></canvas>
+                <div class="numberexpl"></div>
             </div>
-            <div id="error"></div>
 
             <section class="banner"></section>
+
+            <div class="diagramwrapper">
+                <h2>Mest sökta programmen på Mittuniversitetet ht2023</h2>
+                <canvas id="pieChart"></canvas>
+            </div>
+
+            
         </div>
     </main>
 

@@ -1,0 +1,27 @@
+@use "../base/normalize";
+@use "../base/base";
+@use "../components/components";
+
+.diagramwrapper {
+    max-width: 800px;
+    width: 100%;
+    margin: 30px auto;
+
+    h2 {
+        @include components.h2-title();
+        justify-content: center;
+        margin: 20px 0;
+        text-align: center;
+    }
+}
+
+.numberexpl {
+    margin: 20px;
+}
+
+@media (min-width: 600px) {
+    .numberexpl {
+        display: none;
+    }
+}
+
