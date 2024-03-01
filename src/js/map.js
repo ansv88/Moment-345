@@ -58,7 +58,6 @@ async function handleSearchInput() {
     } else {
         resultList.innerHTML = ''; // Rensa sökresultatlistan om söktexten är tom
     }
-
 }
 
 // Funktion för klick på ett förslag i resultatlistan
