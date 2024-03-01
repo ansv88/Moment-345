@@ -11,7 +11,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet">
-    <title>DT211G Moment 3-4</title>
+    <title>DT211G Moment 3-5</title>
     <script src="js/main.js" type="module"></script>
 </head>
 
@@ -59,7 +59,7 @@
                 </article>
 
                 <article class="mainarticle">
-                    <p><strong>Krav på innehållet i denna webbplats:</strong></p>
+                    <h3>Krav på innehållet i denna webbplats:</h3>
                     <ul>
                         <li>Överskrifter och text med valfritt innehåll.</li>
                         <li>Undersidan SASS ska innehålla en utvärdering av ditt arbete med SASS. Vilka för- och
@@ -76,7 +76,7 @@
                 </article>
 
                 <article class="mainarticle">
-                    <p><strong>Följande saker ska (minimum) finnas med:</strong></p>
+                    <h3>Följande saker ska (minimum) finnas med:</h3>
                     <ul>
                         <li>Variabler (minst färgschema ska lagras i variabler)</li>
                         <li>Color functions (darken och lighten ska som minst användas, men använd gärna fler)</li>
@@ -105,7 +105,7 @@
                 </article>
 
                 <article class="mainarticle2">
-                    <p><strong>Lösningen ska minst bestå av följande:</strong></p>
+                    <h3>Lösningen ska minst bestå av följande:</h3>
                     <ul>
                         <li><strong>Text- eller bildanimation</strong> - Använd CSS för att skapa animationer. Det kan
                             vara effekter så som skugga, färgändringar, storleksförändringar eller rörelser.</li>
@@ -117,12 +117,49 @@
                             scrollar ner på sidan, m.m.</li>
 
                     </ul>
-                    <p>Du ska skapa minst <strong>3 olika typer</strong> av animeringar med hjälp av @keyframes, transition och transform
+                    <p>Du ska skapa minst <strong>3 olika typer</strong> av animeringar med hjälp av @keyframes,
+                        transition och transform
                         i CSS. Detta är valfritt så länge det uppfyller kraven ovan</p>
                 </article>
             </section>
 
             <section class="banner"></section>
+
+            <section class="articlewrapper">
+                <article class="mainarticle1">
+                    <h2>Moment 5</h2>
+                    <p>I denna uppgift ska du vidareutveckla din webbplats från tidigare laboration i Moment 3 & 4.
+                        Skapa två nya HTML-sidor som du döper till "Diagram" och "Karta", se till att dessa är länkad i
+                        huvudmenyn. Dessa undersidor kommer du att arbeta med i denna laboration.
+                        Uppgiften är uppdelad i två delar:
+                    </p>
+                </article>
+
+                <article class="mainarticle">
+                    <h3>Del 1 Diagram</h3>
+                    <p>Du ska i denna uppgift skapa två olika typer av diagram, ett stapeldiagram och ett cirkeldiagram.
+                        Dessa diagram ska finnas tillgängliga att se under HTML-sidan "Diagram". <br><br>
+                        Det finns olika JavaScript-bibliotek för att infoga funktionalitetet för diagram i ditt projekt.
+                        Den data som ska presenteras visuellt i diagramen ska hämtas in från extern källa med
+                        FetchAPI-anrop tillsammans med async/await.</p>
+                        <p><strong>Krav på uppgiften:</strong></p>
+                    <ul>
+                        <li>Stabeldiagram - ska visa statistik över de 6 mest sökta kurserna på Mittuniverstetet, HT23. Namn på kurs och totalt antal sökande ska framgå i diagrammet.</li>
+                        <li>Cirkeldiagram - ska visa statistik över de 5 mest sökta programmen på Mittuniverstetet, HT23. Namn på program och totalt antal sökande ska framgå i diagrammet.</li>
+                    </ul>
+                </article>
+
+                <article class="mainarticle">
+                    <h3>Del 2 Karta</h3>
+                    <p>I denna del ska du använda ett externt API för att bifoga en karta på webbplatsen. Det finns flera olika lösningar på detta.</p>
+                    <p><strong>Krav på uppgiften:</strong></p>
+                    <ul>
+                        <li>Det ska finnas ett textfält någonstans på sidan där användaren kan skriva in en plats.</li>
+                        <li>Vid val av plats ska AJAX-anrop (Fetch, Import eller motsvarande till extern källa) göras till vald karttjänst.</li>
+                        <li>Platsen ska visuellt visas på kartan med markör för vald plats.</li>
+                    </ul>
+                </article>
+            </section>
     </main>
 
     <footer id="footer">
